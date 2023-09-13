@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Backend development and Cloud Engineering
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Backend development and devOps
+- 👯 I’m looking to collaborate on devOps and cloud related projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Tech! then maybe life
 - 📫 How to reach me: ...via 
