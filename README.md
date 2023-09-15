@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my skills to become a better Cloud/devOps Engineer
 - 🌱 I’m currently learning Backend development and devOps
 - 👯 I’m looking to collaborate on devOps and cloud related projects
 - 🤔 I’m looking for help with ...
