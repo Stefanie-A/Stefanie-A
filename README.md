@@ -11,6 +11,7 @@ Cloud Platforms ☁️: AWS </br>
 Web Servers 🌐: Nginx, Apache </br>
 Database Systems 💾: MySQL, PostgreSQL </br>
 CI/CD Pipelines 🔄: GitHub Actions </br>
+IaC: Terraform
 Security Technologies 🔒: Firewalls, SSL/TLS, HashiCorp Vault, Docker Secrets
            
 
