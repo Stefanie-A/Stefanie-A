@@ -8,7 +8,7 @@ Cloud Platforms ☁️: AWS, GCP </br>
 Web Servers 🌐: Nginx, Apache </br>
 Database Systems 💾: MySQL, PostgreSQL </br>
 CI/CD Pipelines 🔄: GitHub Actions </br>
-IaC: Terraform
+IaC: Terraform </br>
 Monitoring: Grafana, Prometheus
            
 ### What I Can Do for You </br>
