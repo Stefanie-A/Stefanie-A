@@ -4,7 +4,7 @@
 I'm a DevOps Engineer who knows about the Cloud, passionate about designing, automating, and optimizing cloud-based infrastructures. I specialize in building scalable, secure, and highly available systems. </br>
 
 ### Technologies I'm Exploring </br>
-Cloud Platforms ☁️: AWS </br>
+Cloud Platforms ☁️: AWS, GCP </br>
 Web Servers 🌐: Nginx, Apache </br>
 Database Systems 💾: MySQL, PostgreSQL </br>
 CI/CD Pipelines 🔄: GitHub Actions </br>
