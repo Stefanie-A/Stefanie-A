@@ -2,7 +2,7 @@
 
 ```bash
 $ whoami
-stephanie-albert: AWS Solutions Architect Associate | Cloud DevOps Engineer
+stephanie-albert: AWS Solutions Architect | Cloud DevOps Engineer
 ```
 
 **I turn code into cloud infrastructure** 💻 → ☁️
