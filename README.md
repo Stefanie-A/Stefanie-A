@@ -9,7 +9,7 @@ stephanie-albert: AWS Solutions Architect | Cloud DevOps Engineer
 
 Welcome to my corner of the internet where I build, break, and rebuild things in the cloud! I'm passionate about creating scalable systems that don't crash at 3 AM (we've all been there 😅).
 
-## 🎯 What I'm Currently Obsessed With
+## 🎯 What I'm Currently Working With
 
 ```python
 my_stack = {
@@ -22,37 +22,33 @@ my_stack = {
 }
 ```
 
-## 🏆 Achievement Unlocked
-**AWS Solutions Architect Associate** 🎖️ - *Because I love designing systems that actually work* 😉
+## 🏆 Certifications
+**AWS Solutions Architect - Associate** 🎖️  
+**AWS Certified Security - Specialty** 🎖️
 
-## 🛠️ My Superpowers
+## 🛠️ What I Do
 
-🔧 **Cloud Architecture Wizard** - I make AWS services play nice together  
-🤖 **Automation Ninja** - If you're doing it manually, I'm automating it  
-📦 **Container Whisperer** - Docker and Kubernetes are my best friends  
-🛡️ **Resilience Engineer** - I build systems that gracefully handle chaos  
-🔮 **Proactive Monitoring Sorcerer** - I predict problems before they happen  
-🧠 **AIOps Enthusiast** - Teaching machines to keep other machines happy  
-📊 **Observability Expert** - I see dead servers before they know they're dead  
-✍️ **Technical Storyteller** - I write about tech on [Medium](https://medium.com/@albertstephanie630)  
+🔧 Design and implement AWS cloud architectures for enterprise clients  
+🤖 Build CI/CD pipelines and automate infrastructure with Terraform and GitHub Actions  
+📦 Work daily with Docker and Kubernetes for containerized workloads  
+🛡️ Set up IAM policies, encryption, and security best practices  
+📊 Build observability stacks with Prometheus, Grafana, and CloudWatch  
+✍️ Write about tech on [Medium](https://medium.com/@albertstephanie630)  
 
-## 🎨 Fun Facts About Me
+## 🎨 A Bit More About Me
 
-- 🌙 I deploy to production on Friday nights (kidding... mostly)
-- 🎯 I've reduced deployment time by 60% and I'm proud of it
-- 🔄 I believe in chaos engineering - break it before it breaks itself
-- 📊 I set up alerts for alerts (because redundancy is life)
-- 📚 I turn complex cloud concepts into simple explanations
+- 🔄 I believe in testing infrastructure changes thoroughly before they hit production
+- 📚 I enjoy turning complex cloud concepts into simple explanations
 - 🔍 I actually read AWS documentation for fun
-- 💡 I believe infrastructure should be poetry, not chaos
+- 🌍 AWS Community Builder, coaching engineers getting started in cloud
 
 ## 🚀 Current Mission
-Building the next generation of cloud-native applications that scale beautifully and run reliably. Obsessed with creating resilient systems that self-heal and proactive monitoring that catches issues before users even notice. Also mentoring junior engineers because sharing knowledge is caring! 
+Deepening my cloud security specialization while continuing to design and deploy reliable, well-architected AWS infrastructure. Also mentoring engineers getting started in cloud, because sharing knowledge is caring!
 
 ## 📡 Let's Connect & Build Something Amazing
 
 - 📧 **Email:** albertstephanie630@gmail.com
-- 💼 **LinkedIn:** [Let's be professional friends](your-linkedin-url)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/stephanie-albert-7b549523a/)
 - ✍️ **Medium:** [@albertstephanie630](https://medium.com/@albertstephanie630)
 
 ---
